@@ -1,0 +1,8 @@
+Basic Learning area mainly from two courses:
+1. Deep Learning A-Z
+2. Deep Learning Specialization
+
+Data- Set and materials can be found from the following link:
+1. Bank Dataset: 
+
+
