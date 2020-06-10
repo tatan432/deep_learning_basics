@@ -5,3 +5,5 @@ There is one folder:
 
 ## Learn Basic:
 In learn basic every program has two version one is with using Sckit-Learn or advanced Toolbox like Keras and another is written in simple numpy, so that one can learn how to use advanced library but at the same time remembers the underlying mathematics.
+
+The subsequent Tutorial will come as I will get time. Please stay tuned.
