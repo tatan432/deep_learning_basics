@@ -1,4 +1,5 @@
-#Basic Learning:
+
+# Basic Learning:
 
 In this section you will get to learn the basics of deep learning concpepts
 Logistic Regression with small data set (10 training example):
@@ -26,7 +27,8 @@ A larger Bank dataset thereafter is taken to make a more powerful model. In this
 ### Key Takeaways: 
 You would learn step by step how to build one hidden layer Neural Network and it will give you a foundation how subsequent layers can be added. 
 
-### Multi Layer Deep Network:
+## Multi Layer Deep Network:
 A cat vs Non-Cat Picture has been taken a dataset in this Tutorial Section. This tutorial is very important as we will be building multi layer deep network. There will be several concepts will be explained by this tutorial. Such as Regularization, K-fold Cross Validation, Bias-Variance Tradeoff etc. This tutorial is under Progress. Agian there will be two files:
-1. 
+1. cat_noncat_classifier.py - This file is based on Keras Model. The number of layers and numer of hidden units are programmable.
+2. dataset_load.py - It loads the dataset based from the h5 file.
 
