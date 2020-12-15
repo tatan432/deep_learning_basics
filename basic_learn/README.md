@@ -38,7 +38,7 @@ Human vs Non-Human dataset from Kaggle has been in this Tutorial Section. In thi
 File to Run :  basic_learn/cnn_human_non_human_binary/human_non_human_classifier.py
 Corresponding Dataset: basic_learn/cnn_human_non_human_binary/human_and_non_human/
 
-Also in this tutorail one can learn how a single image can be checked by a trained classified (trained network)
+Also in this tutorial one can learn how a single image can be checked by a trained classified (trained network)
 
 ## CNN Human vs Non Human Categorical Classification:
 Here I have used mixture of many datasets to form a new dataset. These datasets are CAR Dataset, CAT vs DOG Kaggle Dataset, Human vs Non-Human Dataset. Here we will be estimating Vehicle, Animal, Human or Non-Entity(Nothing of the above) classification. The layer structure is almost the same as the Binary Classification. The motivation here is that what are the things needs to be modified for Categorical CNN classification with Keras.
