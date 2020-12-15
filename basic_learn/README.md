@@ -31,3 +31,18 @@ You would learn step by step how to build one hidden layer Neural Network and it
 A cat vs Non-Cat Picture has been taken a dataset in this Tutorial Section. This tutorial is very important as we will be building multi layer deep network. There will be several concepts will be explained by this tutorial. Such as Regularization, K-fold Cross Validation, Bias-Variance Tradeoff etc. This tutorial is under Progress. Agian there will be two files:
 1. cat_noncat_classifier.py - This file is based on Keras Model. The number of layers and numer of hidden units are programmable.
 2. dataset_load.py - It loads the dataset based from the h5 file.
+
+## CNN Human vs Non Human Binary Classification:
+Human vs Non-Human dataset from Kaggle has been in this Tutorial Section. In this tutorial, we will be building 2 CNN layer and 2 Fully connceting layer for classication. In this tutorial we will be learning data-processing of complex dataset and fit-generator method. Here we have only used binary classification
+
+File to Run :  basic_learn/cnn_human_non_human_binary/human_non_human_classifier.py
+Corresponding Dataset: basic_learn/cnn_human_non_human_binary/human_and_non_human/
+
+Also in this tutorail one can learn how a single image can be checked by a trained classified (trained network)
+
+## CNN Human vs Non Human Categorical Classification:
+Here I have used mixture of many datasets to form a new dataset. These datasets are CAR Dataset, CAT vs DOG Kaggle Dataset, Human vs Non-Human Dataset. Here we will be estimating Vehicle, Animal, Human or Non-Entity(Nothing of the above) classification. The layer structure is almost the same as the Binary Classification. The motivation here is that what are the things needs to be modified for Categorical CNN classification with Keras.
+
+File to Run: /basic_learn/cnn_2_fc_2_categorical/human_vehicle_animal_classifier.py
+Dataset Used: deep_learning_basics_tutorial/basic_learn/cnn_2_fc_2_categorical/human_vehicle_animal/
+
